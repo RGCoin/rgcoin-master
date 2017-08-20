@@ -1,0 +1,9 @@
+Building RGCCoin
+
+See doc/readme-qt.rst for instructions on building RGCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RGCoin.
+
+See doc/build-*.txt for instructions on building RGCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of RGCoin.
